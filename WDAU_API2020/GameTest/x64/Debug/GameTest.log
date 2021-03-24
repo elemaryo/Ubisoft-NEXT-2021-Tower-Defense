@@ -1,0 +1,58 @@
+﻿  stdafx.cpp
+  app.cpp
+  main.cpp
+  SimpleController.cpp
+  SimpleSound.cpp
+  SimpleSprite.cpp
+  TextureLoader.cpp
+  Bullet.cpp
+  CanonTower.cpp
+  EasyEnemy.cpp
+  Enemy.cpp
+  GameEntity.cpp
+  GameManager.cpp
+  GameTest.cpp
+  HardEnemy.cpp
+  Level.cpp
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Level.cpp(50,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Level.cpp(89,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Level.cpp(89,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Level.cpp(89,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Level.cpp(90,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Level.cpp(90,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Map.cpp
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(25,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(165,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(166,53): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(171,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(172,52): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(176,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(181,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(203,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(209,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(210,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(218,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(219,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(231,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Map.cpp(232,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  MathHelper.cpp
+  MediumEnemy.cpp
+  Player.cpp
+  PlayScreen.cpp
+  Generating Code...
+  Compiling...
+  PlaySideBar.cpp
+  RocketTower.cpp
+  Scoreboard.cpp
+  ScreenManager.cpp
+  SpriteEntity.cpp
+  StartScreen.cpp
+  Timer.cpp
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\Timer.cpp(43,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TowerEntity.cpp
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\TowerEntity.cpp(34,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+D:\Game Dev\NEXT_API2021\WDAU_API2020\GameTest\TowerEntity.cpp(66): warning C4715: 'TowerEntity::GetCost': not all control paths return a value
+  GameTest.vcxproj -> D:\Game Dev\NEXT_API2021\WDAU_API2020\x64\Debug\GameTest.exe
+  D:\Game Dev\NEXT_API2021\WDAU_API2020\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied

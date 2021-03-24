@@ -1,0 +1,45 @@
+grid layout		check but clean, path generation dfs, glow where to put tower, check tile empty
+			in playscreen or level
+game entity clean
+
+tower entities		// set up timer, menemies pass?, number of enemies based on level?, rotations?, right click stats for towers?
+			// towers have health
+enemy entities with health (rotate)
+
+bullets			//sprite based on type, target in constructor?
+
+collision and damage (class?)
+
+map Start and end point with path, endpoint tower with health
+
+health class??
+
+easy stage??
+
+level/level manager / playscreen
+
+start screen
+
+scoreboard
+
+play side bar with currency		, towers have stats under them
+
+playscreen				?, buy tower?, sell tower
+
+player class -> 			controls?
+
+animations/rotate		(where to check)? level?
+collision and controls
+
+tower on path
+tower on map bounds
+
+
+work on the bullet, the enemy detection, the tower type render
+
+XPos = -(MAP_HEIGHT * halfTileSize - halfTileSize) + column * TILESIZE
+xpos + (MAP_HEIGHT * halfTileSize - halfTileSize) = column * TILESIZE
+
+xpos + (MAP_HEIGHT * halfTileSize - halfTileSize) / tilesize = column
+
+if all enemies are dead, level ended
